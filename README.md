@@ -1,4 +1,4 @@
-##Reconhecimentos e Direitos Autorais
+## Reconhecimentos e Direitos Autorais
 
 @autor: [Ana Iara Loayza Costa, Bruno Rafael Carvalho Coelho, João Lucas Silva da Silva, José Victor Brito Costa, Milena Freire Britto Neves]
 
@@ -8,7 +8,7 @@
 
 @versão: 1.0
 
-@outros repositórios: https://github.com/josevbrito/mercadinho
+@outros repositórios: https://github.com/josevbrito/mercado-web
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
