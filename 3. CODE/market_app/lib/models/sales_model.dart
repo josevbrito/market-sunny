@@ -1,10 +1,12 @@
 class SaleItem {
   int productId;
+  String productName;
   double unitPrice;
   int quantity;
 
   SaleItem({
     required this.productId,
+    required this.productName,
     required this.unitPrice,
     required this.quantity,
   });
@@ -12,6 +14,7 @@ class SaleItem {
   Map<String, dynamic> toMap() {
     return {
       'productId' : productId,
+      'productName' : productName,
       'unitPrice' : unitPrice,
       'quantity' : quantity,
     };
@@ -38,6 +41,7 @@ class SaleModel {
     date = DateTime.parse(map['date']),
     items = List<SaleItem>.from(map['items'].map((item) => SaleItem(
       productId: item['productId'],
+      productName: item['productName'],
       unitPrice: item['unitPrice'],
       quantity: item['quantity'],
     ))),
