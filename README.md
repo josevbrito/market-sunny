@@ -1,6 +1,6 @@
-# Market
+# Market Sunny
 
-Market é um aplicativo mobile desenvolvido com Flutter e Dart, utilizando Firebase como backend. Onde poderá cadastrar seu mercado e ter acesso ao controle de estoque e vendas. Este projeto é uma refatoraçãp da terceira atividade avaliativa feita na disciplina de Projeto e Desenvolvimento de Software na Universidade Federal do Maranhão, sob a orientação do professor Thales Valente.
+O Mercado Sunny é um sistema web desenvolvido em Laravel. Este projeto é uma refatoraçãp da terceira atividade avaliativa feita na disciplina de Projeto e Desenvolvimento de Software na Universidade Federal do Maranhão, sob a orientação do professor Thales Valente. O sistema foi feito para o mercado fictício "Sunny", onde o sistema gerencia estoque, usuários e caixa.
 
 O objetivo principal do projeto é abordar todas as etapas do processo de desenvolvimento de software, desde o levantamento de requisitos até a implementação, passando pela análise, modelagem e diagramação.
 
@@ -12,4 +12,4 @@ O repositório está organizado da seguinte forma:
    
 2. **Diagrams**: Inclui os diagramas de modelagem e qualquer outra representação gráfica utilizada durante o desenvolvimento do projeto.
    
-3. **Code**: Contém todo o código fonte da aplicação, desenvolvido em Flutter e Dart, bem como qualquer script relacionado.
+3. **Code**: Contém todo o código fonte da aplicação.
