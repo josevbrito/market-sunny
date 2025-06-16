@@ -1,3 +1,6 @@
+<?php header("Content-type: text/css"); ?>
+
+
 .error-message {
     color: red;
     margin-top: 5px;
